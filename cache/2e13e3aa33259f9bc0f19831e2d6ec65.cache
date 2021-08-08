@@ -1,0 +1,70 @@
+HTTP/1.1 200 OK
+Date: Wed, 23 Jun 2021 23:54:59 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.14 mod_perl/2.0.11 Perl/v5.16.3
+Last-Modified: Wed, 10 Feb 2021 16:33:51 GMT
+ETag: "1284-5bafdf7e0b200"
+Accept-Ranges: bytes
+Content-Length: 4945
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Jim Kurose homepage</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>	
+	
+	
+</head>
+<body style="font-size:16px">
+<p style="z-index:9999; position:fixed; top:20px; left:20px; width:200px;height:100px; background-color:yellow; padding:10px; font-weight:bold;">Diógenes Web Server Cache: Wed, 23 Jun 2021 11:54:58 GMT</p>
+
+<div class="container">
+	
+  <img class="img-responsive" src="webpage_header.jpg" alt="Jim Kurose picture"> 
+	
+ <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="bio.htm">Bio</a></li>
+        <li><a href="http://gaia.cs.umass.edu/networks/publications.html">Publications</a></li>	
+		<li><a href="http://gaia.cs.umass.edu/kurose_ross/">Textbook</a></li>	
+		  <li><a href="classes.htm">Classes</a></li>	
+		  <li><a href="contact.htm">Contact</a></li>	
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">More<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="presentations.htm">Talks/blog</a></li>
+            <li><a href="students.htm">Students</a></li>
+            <li><a href="http://gaia.cs.umass.edu/personnel/kurose_full_cv.pdf">CV</a></li>			  
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+	
+	
+<br>
+	<p> <strong>Jim Kurose </strong>is  a Distinguished University Professor in the <a href="http://www.cs.umass.edu/">College of Information and Computer Sciences</a> at the <a href="http://www.umass.edu/"> University of Massachusetts Amherst</a>, where he has been on the  faculty since receiving his PhD in computer science from Columbia  University. He received a BA in physics from Wesleyan University. He has  held a number of visiting scientist positions in the US and abroad,  including the Sorbonne University, the University of Paris, INRIA, Technicolor, and IBM  Research. He has served in a number of administrative positions at UMass, including Chair of Computer Science, Dean of Natural Sciences and Mathematics, and (currently) Associate Chancellor for Partnerships and Innovation. His research interests include computer network  architecture and protocols, network measurement, sensor networks, and multimedia communication. He is proud to have mentored and taught an amazing group of students, and  to have received a number of awards for his research, teaching and  service, including the IEEE Infocom Award, the ACM SIGCOMM Lifetime  Achievement Award, the ACM Sigcomm Test of Time Award, and the IEEE  Computer Society Taylor Booth Education Medal. With Keith Ross, he is  the co-author of the best-selling textbook, <em>Computer Networking: a Top Down   Approach</em> (Pearson), now in its 8th edition. He is a member of the National Academy of Engineering and a Fellow of the ACM and the IEEE. </p>
+	<p>From January 2015 to September 2019, Jim was on leave, serving as Assistant Director at the <a href="http://www.nsf.gov/"> US National Science Foundation</a>, where he led the <a href="http://www.nsf.gov/dir/index.jsp?org=CISE"> Directorate of Computer and Information Science and Engineering (CISE)</a>.  With an annual budget  of nearly $1B, CISE's mission is to  uphold the nation's  leadership in scientific discovery and engineering  innovation through  its support of fundamental research in computer and  information science  and engineering and transformative advances in  cyberinfrastructure. <a href="http://jimkurose.wordpress.com/">Here</a> is a blogpost on his NSF work.  While at NSF, he also served as co-chair of the Networking and   Information Technology Research and Development Subcommittee (<a href="http://www.nitrd.gov/">NITRD</a>) of the National   Science and Technology Council Committee on Technology, facilitating the   coordination of networking and information technology research and development   efforts across Federal agencies. In 2018, Jim also served as the   Assistant Director for Artificial Intelligence in the White House Office of Science and   Technology Policy (OSTP). </p>
+<br>
+
+</div>	
+
+</body>
+</html> 
